@@ -1,0 +1,18 @@
+.styledBox{
+      border: 1px solid #0B0B15;
+      padding: 0.5rem;
+      cursor: poiter;
+      transition: 0.2s;
+      border-radius: 0.25rem;
+      cursor: pointer;
+}
+
+.inclued{
+      background: #0B0B15;
+      color: white;
+}
+
+.styledBox:hover {
+      background: #0B0B15;
+      color: white;
+}
